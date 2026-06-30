@@ -115,26 +115,7 @@ Possible extensions include:
 
 ---
 
-## Project Structure
 
-```
-.
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebook/
-│   └── inflation_analysis.ipynb
-│
-├── dashboard/
-│   ├── dashboard.pbix
-│   └── dashboard_screenshot.png
-│
-├── README.md
-└── requirements.txt
-```
-
----
 
 ## Key Takeaway
 
